@@ -17,8 +17,12 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
+---
+
 The final result of real time lane finding is demonstrated in the following video:
-[result](https://www.youtube.com/watch?v=QdSgKrj4cdk) 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QdSgKrj4cdk/0.jpg)](https://www.youtube.com/watch?v=QdSgKrj4cdk)
+
 
 [//]: # (Image References)
 
